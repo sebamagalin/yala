@@ -1,0 +1,8 @@
+# Robots.txt for YALA CANDLES
+# Target Market: Houston, Texas
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.yalacandle.com/sitemap.xml
